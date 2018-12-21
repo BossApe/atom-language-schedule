@@ -1,0 +1,19 @@
+{
+  "name": "language-schedule",
+  "version": "0.0.0",
+  "description": "Schedule file support for Atom",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BossApe/atom-language-schedule.git"
+  },
+  "keywords": [
+    "Spike2",
+    "CED Spike2"
+  ],
+  "readmeFilename": "README.md",
+  "license": "MIT"
+}
