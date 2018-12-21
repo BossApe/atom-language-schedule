@@ -1,0 +1,9 @@
+= Schedule file Package for Atom
+
+== Git URL
+
+https://github.com/BossApe/atom-language-schedule.git[]
+
+git@github.com:BossApe/atom-language-schedule.git[]
+
+

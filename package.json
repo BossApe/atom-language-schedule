@@ -11,9 +11,9 @@
     "url": "https://github.com/BossApe/atom-language-schedule.git"
   },
   "keywords": [
-    "Spike2",
-    "CED Spike2"
+    "schedule",
+    "sch"
   ],
-  "readmeFilename": "README.md",
+  "readmeFilename": "README.adoc",
   "license": "MIT"
 }

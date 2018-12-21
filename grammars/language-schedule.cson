@@ -17,7 +17,7 @@ patterns: [
   #   ////
   #
   name: 'comment.block.schedule'
-  begin: '/\*$'
+  begin: '/\*'
   patterns: [
     include: '#inlines'
   ]
@@ -28,5 +28,5 @@ patterns: [
   # // A single-line comment
   #
   name: 'comment.inline.schedule'
-  match: '^\/{2}.*$'
+  match: '\/{2} .*$'
 ]
